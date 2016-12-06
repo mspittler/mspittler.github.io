@@ -1,0 +1,42 @@
+2016-12-06 13:32:02.4435|INFO|thread:15|DashboardViewModel|Selected repository '/Tutorial'
+2016-12-06 12:15:15.7405|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:
+2016-12-06 12:15:15.7565|INFO|thread: 1|CommandLineHandler|Unprocessed args: 
+2016-12-06 12:15:15.7635|INFO|thread: 1|AppInstance|Starting up as master instance of GitHub Desktop
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| #########################################
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| GitHub Desktop started. VERSION: 3.0.16.0
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| Build version: e0bbff474b4fcc8261c7515dfb97c492bd3b4002
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| ***************************************
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| ***        Have a problem?          ***
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| ***    Email support@github.com     ***
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| ***      and include this file      ***
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| ***************************************
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| OS Version: Windows 7 Service Pack 1 6.1.7601.65536 amd64
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| CLR Version: 4.0.30319.42000
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| Current culture: de-DE
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| Environment.CurrentDirectory: C:\Users\spittler\AppData\Local\Apps\2.0\VKG7CJLC.9MO\GQM8QC3R.VVP\gith..tion_317444273a93ac29_0003.0000_d92b04e95b5b9794
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| currentProcess.StartInfo.WorkingDirectory: 
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| Terminal Services session: no
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| Location: C:\Users\spittler\AppData\Local\Apps\2.0\VKG7CJLC.9MO\GQM8QC3R.VVP\gith..tion_317444273a93ac29_0003.0000_d92b04e95b5b9794\GitHub.exe
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2016-12-06 12:15:15.8125|INFO|thread: 4|StartupLogging| System.Environment.CommandLine: C:\Users\spittler\AppData\Local\Apps\2.0\VKG7CJLC.9MO\GQM8QC3R.VVP\gith..tion_317444273a93ac29_0003.0000_d92b04e95b5b9794\GitHub.exe
+2016-12-06 12:15:15.8465|INFO|thread: 5|HardwareRenderingHelper|Making a WMI query to discover any video PNPID entries
+2016-12-06 12:15:15.8465|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 4732:/tmp/ssh-mzFkJhrmGi9V/agent.328
+2016-12-06 12:15:15.8465|INFO|thread: 4|GitEnvironment|PATH is C:\Users\spittler\AppData\Local\GitHub\PortableGit_25d850739bc178b2eb13c3e2a9faafea2f9143c0\cmd;C:\Users\spittler\AppData\Local\GitHub\PortableGit_25d850739bc178b2eb13c3e2a9faafea2f9143c0\usr\bin;C:\Users\spittler\AppData\Local\GitHub\PortableGit_25d850739bc178b2eb13c3e2a9faafea2f9143c0\usr\share\git-tfs;C:\Users\spittler\AppData\Local\Apps\2.0\VKG7CJLC.9MO\GQM8QC3R.VVP\gith..tion_317444273a93ac29_0003.0000_d92b04e95b5b9794;C:\Users\spittler\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Perl\site\bin;C:\Program Files\Perl\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Ruby22-x64\bin;C:\Program Files\MikTeX\miktex\bin\x64\;C:\Users\spittler\AppData\Local\atom\bin;C:\Users\spittler\AppData\Local\Pandoc\
+2016-12-06 12:15:15.8465|INFO|thread: 4|StartupLogging| =====================================================
+2016-12-06 12:15:15.8465|INFO|thread: 4|StartupLogging|  DIAGNOSTICS                                        |
+2016-12-06 12:15:15.8465|INFO|thread: 4|StartupLogging| =====================================================
+2016-12-06 12:15:15.8465|INFO|thread: 4|StartupLogging| Git Extracted: 'True:
+2016-12-06 12:15:15.8465|INFO|thread: 4|StartupLogging| PortableGit Dir Exists: 'C:\Users\spittler\AppData\Local\GitHub\PortableGit_25d850739bc178b2eb13c3e2a9faafea2f9143c0'
+2016-12-06 12:15:15.8465|INFO|thread: 4|StartupLogging| Git Executable Exists: 'C:\Users\spittler\AppData\Local\GitHub\PortableGit_25d850739bc178b2eb13c3e2a9faafea2f9143c0\cmd\git.exe'
+2016-12-06 12:15:15.8465|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\spittler\AppData\Local\atom\bin'
+2016-12-06 12:15:15.8555|INFO|thread: 4|StartupLogging| ----------------------------------------------------
+2016-12-06 12:15:15.8555|INFO|thread: 4|StartupLogging| PATH: C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Perl\site\bin;C:\Program Files\Perl\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Ruby22-x64\bin;C:\Program Files\MikTeX\miktex\bin\x64\;C:\Users\spittler\AppData\Local\atom\bin;C:\Users\spittler\AppData\Local\Pandoc\
+2016-12-06 12:15:15.8915|INFO|thread: 4|StartupLogger|Proxy information: (None)
+2016-12-06 12:15:15.8915|INFO|thread: 4|StartupLogger|Couldn't fetch creds for proxy
+2016-12-06 12:15:16.0135|INFO|thread: 4|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2016-12-06 12:15:16.1335|INFO|thread: 4|MsysGitCertificateInstaller|Found certificate cache, loaded 156 certificates
+2016-12-06 12:15:16.1415|INFO|thread: 4|MsysGitCertificateInstaller|Created certificate bundle with 333 entries
